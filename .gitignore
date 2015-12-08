@@ -1,2 +1,9 @@
-target/**
-out/**
+target/
+.classpath
+.project
+
+*.iml
+*.ipr
+*.iws
+.idea
+out
